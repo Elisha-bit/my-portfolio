@@ -1,0 +1,127 @@
+ .lloo{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(5px);
+    transform: scale3d(20px);
+    background-image: url(im.jpg);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    }
+.mmm{
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font: bolder;
+    font-size: 3rem;
+}
+.m{
+    color: #fff;
+    text-align: center;
+    font: bolder;
+    font-size: 3rem;
+}
+header {
+    border-bottom: 3px solid orangered;
+    border-left: 3px solid orangered;
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {  
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 0px;
+    margin: 0px;
+}
+
+.project {
+    color: #fff;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background:#fff;
+    color: #fff;
+}
+.hi{
+    color: #0d6aec;
+}
+.mimii{
+    text-align: center;
+    color: #112bd5;
+}
+.imi{
+    color: #163edf;
+}
+.ee{
+    color: blue;
+    
+}
+.navi{
+    display: inline;
+    margin: 0 15p;
+}
+
+.angel{
+    display: flex;
+    border-radius: 5px ; 
+    margin-right: 0px;
+    padding: 0px;
+    margin-left:  0px;
+    
+}
+
+.social-icons{
+    align-items: end;
+}
+.image{
+    float: right;
+    width: 30%;
+    height: auto;
+    transition: scale 1.1px;
+
+    border-radius: 50%;
+    
+}
+.po7{
+    background-image: url(/img/rema.jpg);
+    background-position: absolute;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: transparent(50px);
+
+}
+#contact-form{
+    align-items: center;
+    justify-items: center;
+}
+.hi{
+    justify-items: center;
+    align-items: center;
+}
+.message{
+    align-items: center;
+    justify-items: center;
+}
